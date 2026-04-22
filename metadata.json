@@ -1,0 +1,6 @@
+{
+  "name": "مطعم فطائرومشويات بيتي لتقديم الوجبات",
+  "description": "Menu and landing page for Baiti Pies & Grills restaurant in Yanbu, Saudi Arabia.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
